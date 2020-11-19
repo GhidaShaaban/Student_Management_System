@@ -1,2 +1,2 @@
-# Studenet Managment System 
+# Student Managment System 
  Student Managment system 
